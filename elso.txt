@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 second
+=======
+anulu
+>>>>>>> 1a4fe29fae50e7124347de3672fd729b1db536bb
